@@ -30,7 +30,7 @@ public class Feature2 {
         if(score > 750){
             return true;
         } else {
-            return false;
+            return false;//
         }
 
     }
